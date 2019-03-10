@@ -1,4 +1,5 @@
 <?php
+require "vendor/autoload.php";
 // linegroup เพื่อนกัน = C3158cdbf445f182ffc3b6449cb1e32bc
 // เชี้ยง = U462e92e0413e480628758891b6d4161e
 //idgrup = C9a63307214226ae2aab8f45ea725be1b
